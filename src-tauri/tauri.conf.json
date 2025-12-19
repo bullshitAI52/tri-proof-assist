@@ -7,7 +7,7 @@
   },
   "package": {
     "productName": "tri-proof-assist",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
   "tauri": {
     "allowlist": {
@@ -28,7 +28,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.triproofassist.app",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
